@@ -37,4 +37,6 @@ sudo service influxdb start
 ``` 
 >create database <데이터베이스이름>
 ```
+확인 : show databases
+```
 
