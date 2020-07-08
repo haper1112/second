@@ -48,7 +48,7 @@ curl https://bintry.com/user/downloadSubjectpubjectpublickey?username=bintray | 
 
 ## 2. Repository를 더하기 
 ```
-echo "deb https://dl.bintray.com/fg2it/deb stretch main" | sudo tee -a/etc/apt/sources.list.d/grafana.list
+echo "deb https://dl.bintray.com/fg2it/deb stretch main" | sudo tee -a /etc/apt/sources.list.d/grafana.list
 ```
 
 ## 3. 프로그램 설치 
