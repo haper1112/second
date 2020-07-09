@@ -62,8 +62,25 @@ sudo apt install grafana
 sudo service grafana-server start
 ```
 
+### github 사용방법
+ - Repository download 
+ ``` 
+ git clone gttps://github.com/<user name>/<repository name>
+ ```
+ 
+ ### vim 설정 
+ 
+- set n // 숫자 라인 
 
+- set cindent // c 언어 
 
+- set ts=4 // tab size 4
 
+- if has("Syntax") // syntax on 
+
+- syntax on
+
+- endif 
+ 
 
 
